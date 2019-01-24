@@ -1,2 +1,2 @@
-# MovieLens
+# Recommendation System
 Predict Movie Ratings
